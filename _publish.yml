@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: b96697bb-d050-471b-9358-01e992858092
+      url: 'shiyu-murashima.netlify.app'
