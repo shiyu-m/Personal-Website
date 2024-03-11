@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "About",
     "section": "",
-    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my CV, or you can also check out my recent Projects."
+    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my CV, or you can also check out my Experience and recent Projects."
   },
   {
     "objectID": "index.html#heading-1",
@@ -44,7 +44,7 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "",
+    "title": "Projects",
     "section": "",
     "text": "STATS 101C: Intro to Statistical Models and Data Mining IMDb Review Rating Prediction (Fall 2023)\nDGT HUM 131: Digital Mapping and Critical GIS LA Metro: A Spatial Perspective on Its Problems (Fall 2023)\nSTATS 101A: Intro to Data Analysis and Regression Graduate Student Admission Prediction (Winter 2023)\nDGT HUM 101: Intro to Digital Humanities Airbnb in Los Angeles: Short-Term Housing in the Long Run (Fall 2022)"
   },
@@ -65,42 +65,42 @@
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "",
+    "title": "About",
     "section": "",
-    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my CV, or you can also check out my recent Projects."
+    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my CV, or you can also check out my Experience and recent Projects."
   },
   {
     "objectID": "projects.html#datares-ucla",
     "href": "projects.html#datares-ucla",
-    "title": "",
+    "title": "Projects",
     "section": "DataRes @ UCLA",
     "text": "DataRes @ UCLA\nColorless Art: Exploring Museum Diversity (Fall 2023)\nGDP is Outdated: We Need a Better Alternative (Winter 2022)"
   },
   {
     "objectID": "projects.html#bruin-sports-analytics",
     "href": "projects.html#bruin-sports-analytics",
-    "title": "",
+    "title": "Projects",
     "section": "Bruin Sports Analytics",
     "text": "Bruin Sports Analytics\nThe Declining Presence of the Number 10 (Winter 2022)"
   },
   {
     "objectID": "projects.html#ucla-coursework",
     "href": "projects.html#ucla-coursework",
-    "title": "",
+    "title": "Projects",
     "section": "",
     "text": "STATS 101C: Intro to Statistical Models and Data Mining IMDb Review Rating Prediction (Fall 2023)\nDGT HUM 131: Digital Mapping and Critical GIS LA Metro: A Spatial Perspective on Its Problems (Fall 2023)\nSTATS 101A: Intro to Data Analysis and Regression Graduate Student Admission Prediction (Winter 2023)\nDGT HUM 101: Intro to Digital Humanities Airbnb in Los Angeles: Short-Term Housing in the Long Run (Fall 2022)"
   },
   {
     "objectID": "experience.html",
     "href": "experience.html",
-    "title": "",
+    "title": "Experience",
     "section": "",
     "text": "Modern Endangered Archives Program (UCLA)\nData Scientist Part-Time\nApril 2023 - Present\n\nAnalyzed text data of digitized artifacts from 30+ countries using NLP (e.g. TF-IDF matrix) and machine learning algorithms (e.g. topic modeling) in R. Generated 100+ visualizations to support decision-making for upcoming projects.\n\n\nBruin Sports Analytics\nData Consultant for UCLA Tennis/Football/Baseball\nMarch 2022 - Present\n\nAnalysis Head for the UCLA Tennis team, creating statistical match reports in R and player data dashboards in Tableau.\nCollaborated closely with UCLA Football and Baseball coaching staff to create R Shiny applications features 30+ tables and visualizations. Utilized SQL to query NCAA data for comprehensive game-by-game analysis and player feedback.\n\n\nSimulation Engineering Lab\nData Science Intern\nJuly 2023 - September 2023\n\nDiscovered key insights from housing sales data by building machine learning models for prediction and clustering tasks (e.g. forecasting housing prices with ARIMA) using Python.\n\n\nEduplanner\nData Analysis and Research Intern\nSeptember 2023 - February 2024\n\nAuthored research paper detailing observed impacts on education outcomes following a semester of software utilization, using various machine learning algorithms (e.g. random forest) in R."
   },
   {
     "objectID": "experience.html#experience",
     "href": "experience.html#experience",
-    "title": "",
+    "title": "Experience",
     "section": "",
     "text": "Modern Endangered Archives Program (UCLA)\nData Scientist Part-Time\nApril 2023 - Present\n\nAnalyzed text data of digitized artifacts from 30+ countries using NLP (e.g. TF-IDF matrix) and machine learning algorithms (e.g. topic modeling) in R. Generated 100+ visualizations to support decision-making for upcoming projects.\n\n\nBruin Sports Analytics\nData Consultant for UCLA Tennis/Football/Baseball\nMarch 2022 - Present\n\nAnalysis Head for the UCLA Tennis team, creating statistical match reports in R and player data dashboards in Tableau.\nCollaborated closely with UCLA Football and Baseball coaching staff to create R Shiny applications features 30+ tables and visualizations. Utilized SQL to query NCAA data for comprehensive game-by-game analysis and player feedback.\n\n\nSimulation Engineering Lab\nData Science Intern\nJuly 2023 - September 2023\n\nDiscovered key insights from housing sales data by building machine learning models for prediction and clustering tasks (e.g. forecasting housing prices with ARIMA) using Python.\n\n\nEduplanner\nData Analysis and Research Intern\nSeptember 2023 - February 2024\n\nAuthored research paper detailing observed impacts on education outcomes following a semester of software utilization, using various machine learning algorithms (e.g. random forest) in R."
   }
