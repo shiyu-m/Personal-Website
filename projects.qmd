@@ -1,9 +1,25 @@
 ---
-title: "Projects"
+toc: false
 ---
 
-About this site
+## UCLA Coursework
 
-```{r}
-1 + 3
-```
+- STATS 101C: Intro to Statistical Models and Data Mining [IMDb Review Rating Prediction](/docs/Projects/Stats_101C_Final_Project.pdf "Stats 101C Final Project") *(Fall 2023)*
+
+- DGT HUM 131: Digital Mapping and Critical GIS [LA Metro: A Spatial Perspective on Its Problems](https://arcg.is/qbnj80) *(Fall 2023)*
+
+- STATS 101A: Intro to Data Analysis and Regression [Graduate Student Admission Prediction](/docs/Projects/Stats_101A_Final_Project.pdf "Stats 101A Final Project") *(Winter 2023)*
+
+- DGT HUM 101: Intro to Digital Humanities [Airbnb in Los Angeles: Short-Term Housing in the Long Run](https://standarddeviants.humspace.ucla.edu/) *(Fall 2022)*
+
+## DataRes @ UCLA
+
+[Colorless Art: Exploring Museum Diversity](https://ucladatares.medium.com/colorless-art-exploring-museum-diversity-a4d8bf0e4e99) *(Fall 2023)*
+
+[GDP is Outdated: We Need a Better Alternative](https://ucladatares.medium.com/gdp-is-outdated-we-need-a-better-alternative-d1fcf06fa998) *(Winter 2022)*
+
+## Bruin Sports Analytics
+
+[The Declining Presence of the Number 10](https://www.bruinsportsanalytics.com/post/declining_number_10) *(Winter 2022)*
+
+

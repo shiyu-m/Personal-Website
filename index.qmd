@@ -1,11 +1,23 @@
 ---
-title: "personal-website"
+toc: false
+about:
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: https://linkedin.com/in/shiyumurashima
+    - icon: github
+      text: GitHub
+      url: https://github.com/shiyu-m
+    - icon: inbox-fill 
+      text: Email
+      url: "mailto:shiyumurashima@gmail.com"
+image: profile.png
 ---
 
-This is a Quarto website.
+## About
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my [CV](/docs/CV/CV.pdf "CV"), or you can also check out my recent [Projects](projects.qmd).
 
-```{r}
-1 + 1
-```
+
+

@@ -1,0 +1,32 @@
+---
+toc: false
+---
+
+## Experience
+
+**Modern Endangered Archives Program (UCLA)**\
+*Data Scientist Part-Time*\
+*April 2023 - Present*
+
++ Analyzed text data of digitized artifacts from 30+ countries using NLP (e.g. TF-IDF matrix) and machine learning algorithms (e.g. topic modeling) in R. Generated 100+ visualizations to support decision-making for upcoming projects.\
+
+**Bruin Sports Analytics**\
+*Data Consultant for UCLA Tennis/Football/Baseball*\
+*March 2022 - Present*
+
++ Analysis Head for the UCLA Tennis team, creating statistical match reports in R and player data dashboards in Tableau.
+
++ Collaborated closely with UCLA Football and Baseball coaching staff to create R Shiny applications features 30+ tables
+and visualizations. Utilized SQL to query NCAA data for comprehensive game-by-game analysis and player feedback.\
+
+**Simulation Engineering Lab**\
+*Data Science Intern*\
+*July 2023 - September 2023*
+
++ Discovered key insights from housing sales data by building machine learning models for prediction and clustering tasks (e.g. forecasting housing prices with ARIMA) using Python.\
+
+**Eduplanner**\
+*Data Analysis and Research Intern*\
+*September 2023 - February 2024*
+
++ Authored research paper detailing observed impacts on education outcomes following a semester of software utilization, using various machine learning algorithms (e.g. random forest) in R.\

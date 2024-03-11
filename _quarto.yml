@@ -6,10 +6,19 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
+      - href: experience.qmd
+        text: Experience
       - href: projects.qmd
         text: Projects
+    right: 
+      - icon: github
+        menu: 
+          - text: Website Source Code
+            url: https://github.com/shiyu-m/personal-website
+          - text: GitHub Profile
+            url: https://github.com/shiyu-m
+  page-footer:
+    right: "&copy; 2024, Shiyu Murashima"
 
 format:
   html:
