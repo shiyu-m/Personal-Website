@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>index</title>
+<title>experience</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -83,11 +84,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./experience.html"> 
+    <a class="nav-link active" href="./experience.html" aria-current="page"> 
 <span class="menu-text">Experience</span></a>
   </li>  
   <li class="nav-item">
@@ -126,35 +127,47 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles content">
-  <div class="about-entity">
-    <img src="profile.png" class="about-image
-  rounded " style="width: 20em;">
-    <div class="about-links">
-  <a href="https://linkedin.com/in/shiyumurashima" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-  <a href="https://github.com/shiyu-m" class="about-link" rel="" target="">
-    <i class="bi bi-github"></i>
-     <span class="about-link-text">GitHub</span>
-  </a>
-  <a href="mailto:shiyumurashima@gmail.com" class="about-link" rel="" target="">
-    <i class="bi bi-inbox-fill"></i>
-     <span class="about-link-text">Email</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="about" class="level2">
-<h2 data-anchor-id="about">About</h2>
-<p>I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my <a href="./docs/CV/CV.pdf" title="CV">CV</a>, or you can also check out my recent <a href="./projects.html">Projects</a>.</p>
+<main class="content" id="quarto-document-content">
+
+
+
+
+<section id="experience" class="level2">
+<h2 class="anchored" data-anchor-id="experience">Experience</h2>
+<p><strong>Modern Endangered Archives Program (UCLA)</strong><br>
+<em>Data Scientist Part-Time</em><br>
+<em>April 2023 - Present</em></p>
+<ul>
+<li>Analyzed text data of digitized artifacts from 30+ countries using NLP (e.g.&nbsp;TF-IDF matrix) and machine learning algorithms (e.g.&nbsp;topic modeling) in R. Generated 100+ visualizations to support decision-making for upcoming projects.<br>
+</li>
+</ul>
+<p><strong>Bruin Sports Analytics</strong><br>
+<em>Data Consultant for UCLA Tennis/Football/Baseball</em><br>
+<em>March 2022 - Present</em></p>
+<ul>
+<li><p>Analysis Head for the UCLA Tennis team, creating statistical match reports in R and player data dashboards in Tableau.</p></li>
+<li><p>Collaborated closely with UCLA Football and Baseball coaching staff to create R Shiny applications features 30+ tables and visualizations. Utilized SQL to query NCAA data for comprehensive game-by-game analysis and player feedback.<br>
+</p></li>
+</ul>
+<p><strong>Simulation Engineering Lab</strong><br>
+<em>Data Science Intern</em><br>
+<em>July 2023 - September 2023</em></p>
+<ul>
+<li>Discovered key insights from housing sales data by building machine learning models for prediction and clustering tasks (e.g.&nbsp;forecasting housing prices with ARIMA) using Python.<br>
+</li>
+</ul>
+<p><strong>Eduplanner</strong><br>
+<em>Data Analysis and Research Intern</em><br>
+<em>September 2023 - February 2024</em></p>
+<ul>
+<li>Authored research paper detailing observed impacts on education outcomes following a semester of software utilization, using various machine learning algorithms (e.g.&nbsp;random forest) in R.<br>
+</li>
+</ul>
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -175,6 +188,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
