@@ -5,13 +5,19 @@ toc: false
 
 ## UCLA Coursework
 
-- STATS 101C: Intro to Statistical Models and Data Mining [IMDb Review Rating Prediction](/docs/Projects/Stats_101C_Final_Project.pdf "Stats 101C Final Project") *(Fall 2023)*
+- STATS 140XP: Practice of Statistical Consulting [What Makes a Good Company?](/docs/Projects/Stats_140XP_Final_Project.pdf "Stats 140XP Final Project") *(Winter 2024)*
 
-- DGT HUM 131: Digital Mapping and Critical GIS [LA Metro: A Spatial Perspective on Its Problems](https://arcg.is/qbnj80) *(Fall 2023)*
+- STATS 101C: Intro to Statistical Models and Data Mining [IMDb Review Rating Prediction](/docs/Projects/Stats_101C_Final_Project.pdf "Stats 101C Final Project") *(Fall 2023)*
 
 - STATS 101A: Intro to Data Analysis and Regression [Graduate Student Admission Prediction](/docs/Projects/Stats_101A_Final_Project.pdf "Stats 101A Final Project") *(Winter 2023)*
 
+- DGT HUM 150: Machine Learning for Humanists [Image Classification of Waste](https://github.com/shiyu-m/Waste-Image-Classification/tree/main) *(Winter 2024)*
+
+- DGT HUM 131: Digital Mapping and Critical GIS [LA Metro: A Spatial Perspective on Its Problems](https://arcg.is/qbnj80) *(Fall 2023)*
+
 - DGT HUM 101: Intro to Digital Humanities [Airbnb in Los Angeles: Short-Term Housing in the Long Run](https://standarddeviants.humspace.ucla.edu/) *(Fall 2022)*
+
+- COMM 156: Social Networking [Passing Networks in Soccer](/docs/Projects/Comm_156_Project.pdf "Comm 156 Project") *(Winter 2024)*
 
 ## DataRes @ UCLA
 

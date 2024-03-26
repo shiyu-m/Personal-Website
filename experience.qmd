@@ -3,8 +3,6 @@ title: Experience
 toc: false
 ---
 
-## Experience
-
 **Modern Endangered Archives Program (UCLA)**\
 *Data Scientist Part-Time*\
 *April 2023 - Present*
