@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Home",
+    "title": "Shiyu Murashima",
     "section": "",
-    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my CV, or you can also check out my Experience and recent Projects."
+    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my Resume, or you can also check out my Experience and recent Projects."
   },
   {
     "objectID": "index.html#heading-1",
@@ -65,9 +65,9 @@
   {
     "objectID": "index.html#about",
     "href": "index.html#about",
-    "title": "Home",
+    "title": "Shiyu Murashima",
     "section": "",
-    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my CV, or you can also check out my Experience and recent Projects."
+    "text": "I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my Resume, or you can also check out my Experience and recent Projects."
   },
   {
     "objectID": "projects.html#datares-ucla",
@@ -95,7 +95,7 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Modern Endangered Archives Program (UCLA)\nData Scientist Part-Time\nApril 2023 - Present\n\nAnalyzed text data of digitized artifacts from 30+ countries using NLP (e.g. TF-IDF matrix) and machine learning algorithms (e.g. topic modeling) in R. Generated 100+ visualizations to support decision-making for upcoming projects.\n\n\nBruin Sports Analytics\nData Consultant for UCLA Tennis/Football/Baseball\nMarch 2022 - Present\n\nAnalysis Head for the UCLA Tennis team, creating statistical match reports in R and player data dashboards in Tableau.\nCollaborated closely with UCLA Football and Baseball coaching staff to create R Shiny applications features 30+ tables and visualizations. Utilized SQL to query NCAA data for comprehensive game-by-game analysis and player feedback.\n\n\nSimulation Engineering Lab\nData Science Intern\nJuly 2023 - September 2023\n\nDiscovered key insights from housing sales data by building machine learning models for prediction and clustering tasks (e.g. forecasting housing prices with ARIMA) using Python.\n\n\nEduplanner\nData Analysis and Research Intern\nSeptember 2023 - February 2024\n\nAuthored research paper detailing observed impacts on education outcomes following a semester of software utilization, using various machine learning algorithms (e.g. random forest) in R."
+    "text": "Modern Endangered Archives Program UCLA\nData Scientist Part-Time\nApril 2023 - Present\n\nConducted text analysis of digitized artifacts from 30+ countries using NLP (e.g. TF-IDF matrix) and machine learning models (e.g. topic modeling) in R. Generated 100+ visualizations to support decision-making for upcoming projects.\n\n\nUCLA Athletics\nData Consultant (Bruin Sports Analytics)\nMarch 2022 - Present\n\nAnalysis Head for the UCLA Tennis team, creating statistical match reports in R and player data dashboards in Tableau.\nCollaborated closely with UCLA Football and Baseball coaching staff to create R Shiny applications features 30+ tables and visualizations. Utilized SQL to query NCAA data for comprehensive game-by-game analysis and player feedback.\n\n\nSimulation Engineering Lab\nData Science Intern\nJuly 2023 - September 2023\n\nDiscovered key insights from housing sales data by building machine learning models for prediction and clustering tasks (e.g. forecasting housing price index) using Python.\n\n\nEduplanner\nData Analysis and Research Intern\nSeptember 2023 - February 2024\n\nAuthored research paper detailing observed impacts on education outcomes following a semester of software utilization, using various machine learning models (e.g. XGBoost) in R.\n\n\nClaris Health\nData Analyst (BioKind Analytics)\nOctober 2023 - Present\n\nProject Lead for a team of four analyzing donor retention trends, creating visualizations in R and dashboards in Tableau."
   },
   {
     "objectID": "experience.html#experience",
