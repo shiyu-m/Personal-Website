@@ -18,7 +18,7 @@ image: profile.png
 
 ## About
 
-I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my [CV](/docs/CV/CV.pdf "CV"), or you can also check out my [Experience](experience.qmd) and recent [Projects](projects.qmd).
+I am currently a fourth year at UCLA, majoring in Statistics and Data Science and minoring in Digital Humanities. You can learn more about me through my [Resume](/docs/Resume/Resume - Shiyu Murashima.pdf "Resume"), or you can also check out my [Experience](experience.qmd) and recent [Projects](projects.qmd).
 
 
 
